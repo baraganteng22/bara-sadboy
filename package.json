@@ -1,23 +1,24 @@
 {
-  "name": "@laurine/baileys",
-  "version": "1.0.2",
-  "description": "WhatsApp API",
+  "name": "@DGXeon/baileys",
+  "version": "1.0.1",
+  "description": "baileys",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
     "whatsapp-api",
     "whatsapp-web",
-    "whatsapp-chat",
-    "whatsapp-group",
-    "automation",
-    "multi-device"
+    "multi-device",
+    "newsletter",
+    "buttons",
+    "whatsapp-bot",
+    "vreden"
   ],
-  "homepage": "https://github.com/kiuur/laurine",
+  "homepage": "https://github.com/DGXeon",
   "repository": {
-    "url": "git+ssh://git@github.com/kiuur/laurine.git"
+    "url": "git+ssh://git@github.com/DGXeon/baileys-dgxeon2.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "DGXeon",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
