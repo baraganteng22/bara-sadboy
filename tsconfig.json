@@ -19,3 +19,4 @@
   },
   "include": ["./lib/**/*.ts"],
   "exclude": ["node_modules", "lib/Tests/*", "lib/Binary/GenerateStatics.ts"]
+}
