@@ -1,25 +1,23 @@
 {
-  "name": "@vreden/meta",
-  "version": "1.0.1",
-  "description": "WhatsApp Web Official Meta Facebook Developer Blueprint For Desktop",
+  "name": "@nstar/baileys",
+  "version": "6.7.5",
+  "description": "WhatsApp API",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
     "whatsapp-api",
     "whatsapp-web",
-    "multi-device",
-    "newsletter",
-    "buttons",
-    "interaktive",
-    "whatsapp-bot",
-    "vreden"
+    "whatsapp-chat",
+    "whatsapp-group",
+    "automation",
+    "multi-device"
   ],
-  "homepage": "https://github.com/DGXeon",
+  "homepage": "https://github.com/nstar-y/Bail",
   "repository": {
-    "url": "git+ssh://git@github.com/DGXeon/baileys-dgxeon2.git"
+    "url": "git+ssh://git@github.com/nstar-y/Bail.git"
   },
   "license": "MIT",
-  "author": "DGXeon",
+  "author": "Adhiraj Singh",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
